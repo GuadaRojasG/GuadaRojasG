@@ -15,7 +15,6 @@
 - 🧚🏻‍♀️: Pronouns: She/Her
   
 <Br>
-<Br>
 <h1>My Tech Skills! 🤸‍♂</h1>
 <Br>
 <h2 align="center">Languages</h2>

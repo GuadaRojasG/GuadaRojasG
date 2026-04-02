@@ -9,10 +9,9 @@
 - 🍎: Apart from my tech alter-ego I am also a second-year Nutrition student at University of Buenos Aires.
 - 💻: I’m currently working on completing my software development studies at SoyHenry Bootcamp.
 - 🍽️: I've recently finished my final group project that consisted of a reservation site for a fictional restaurant, I was part of the Front End Development team.
-- 💭: I’m looking forward to creating my own Front End proyects and by so learning more about it!
+- 💭: I’m looking forward to creating my own proyects and by so learning more about it!
 - 🇦🇷: I live in Argentina and I'm half Argentinian and half Spanish
 - 🎮: Fun Fact: I love computer video games
-- 🧚🏻‍♀️: Pronouns: She/Her
   
 <Br>
 <h1>My Tech Skills! 🤸‍♂</h1>
@@ -63,6 +62,7 @@
 <img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 <h2 align="center">Deployment</h2>

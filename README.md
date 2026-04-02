@@ -9,7 +9,7 @@
 - 🍎: Apart from my tech alter-ego I am also a second-year Nutrition student at University of Buenos Aires.
 - 💻: I’m currently working on completing my software development studies at SoyHenry Bootcamp.
 - 🍽️: I've recently finished my final group project that consisted of a reservation site for a fictional restaurant, I was part of the Front End Development team.
-- 💭: I’m looking forward to creating my own proyects and by so learning more about it!
+- 💭: I’m looking forward to creating my own proyects and by so learning more about web development!
 - 🇦🇷: I live in Argentina and I'm half Argentinian and half Spanish
 - 🎮: Fun Fact: I love computer video games
   

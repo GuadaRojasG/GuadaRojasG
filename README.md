@@ -73,12 +73,15 @@
 </p>
 
 <Br>
-<h1>Proyects! 🤸‍♂</h1>
+<h1>Star Proyects! 🤸‍♂</h1>
 <h2>Montevino (Group Project - Henry Bootcamp, 2026)</h2>
 Web platform for a restaurant and winery that allows users to explore the menu, make online reservations, and pay a deposit via Mercado Pago.
+<Br>
 - Role: Frontend Developer and Group Leader
-- Functionalities: Includes a reservation system, role-based authentication (user/admin), admin panel, metrics dashboard, interactive map with Leaflet, and a support chatbot.
-🔗<a href="">Repository</a> | <a href="">Demo</a>
+<Br>
+- Functionalities: Product view, reservation system, role-based authentication (user/admin), admin panel, metrics dashboard, interactive map with Leaflet, and a support chatbot.
+<Br>
+🔗<a href="https://github.com/montevinoPF/Montevino-Front"> Repository</a> | <a href="montevino-front.vercel.app"> Demo</a>
 <Br>
 
 <Br>

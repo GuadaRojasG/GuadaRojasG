@@ -12,6 +12,7 @@
 - 💭: I’m looking forward to creating my own proyects and by so learning more about web development!
 - 🇦🇷: I live in Argentina and I'm half Argentinian and half Spanish
 - 🎮: Fun Fact: I love computer video games
+- 📄: <a href="https://docs.google.com/document/d/1U4MJYn_WPkfN9YHomThd42oS8zzaeCh8hkQnaG-NFI0/edit?usp=sharing">Curriculum Vitae<a>
   
 <Br>
 <h1>My Tech Skills! 🤸‍♂</h1>
@@ -70,6 +71,15 @@
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
+<Br>
+<h1>Proyects! 🤸‍♂</h1>
+<h2>Montevino (Group Project - Henry Bootcamp, 2026)</h2>
+Web platform for a restaurant and winery that allows users to explore the menu, make online reservations, and pay a deposit via Mercado Pago.
+- Role: Frontend Developer and Group Leader
+- Functionalities: Includes a reservation system, role-based authentication (user/admin), admin panel, metrics dashboard, interactive map with Leaflet, and a support chatbot.
+🔗<a href="">Repository</a> | <a href="">Demo</a>
+<Br>
 
 <Br>
 <h1>Get in Touch! 📬</h1>

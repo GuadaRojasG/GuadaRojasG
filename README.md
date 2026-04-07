@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi!<Br>I'm <a href="https://github.com/GuadaRojasG">Guadalupe Rojas<a><Br>💌</h1>
 <Br>
-<h1>About Me! ⭐️</h1>
+<h1>About Me! 🧸</h1>
 
 - 👤: I'm a Full Stack Developer with a strong focus on Front End design and visual content creation.
 - 🍎: Apart from my tech alter-ego I am also a second-year Nutrition student at University of Buenos Aires.
@@ -73,7 +73,7 @@
 </p>
 
 <Br>
-<h1>Star Proyects! 🤸‍♂</h1>
+<h1>Star Proyects! ⭐️</h1>
 <h2>Montevino (Group Project - Henry Bootcamp, 2026)</h2>
 Web platform for a restaurant and winery that allows users to explore the menu, make online reservations, and pay a deposit via Mercado Pago.
 <Br>

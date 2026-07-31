@@ -7,12 +7,12 @@
 
 - 👤: I'm a Full Stack Developer with a strong focus on Front End design and visual content creation.
 - 🍎: Apart from my tech alter-ego I am also a second-year Nutrition student at University of Buenos Aires.
-- 💻: I’m currently working on completing my software development studies at SoyHenry Bootcamp.
-- 🍽️: I've recently finished my final group project that consisted of a reservation site for a fictional restaurant, I was part of the Front End Development team.
-- 💭: I’m looking forward to creating my own proyects and by so learning more about web development!
+- 💻: I’m currently working on some personal projects.
+- 🍽️: I've recently finished my frontend internship at Kurve, where I developed a role-based management system with tailored dashboards for administrators, team members, and clients.
+- 💭: I’m looking forward to gain more experience and by so learning more about web development!
 - 🇦🇷: I live in Argentina and I'm half Argentinian and half Spanish
 - 🎮: Fun Fact: I love computer video games
-- 📄: <a href="https://docs.google.com/document/d/1U4MJYn_WPkfN9YHomThd42oS8zzaeCh8hkQnaG-NFI0/edit?usp=sharing">Curriculum Vitae<a>
+- 📄: <a href="https://docs.google.com/document/d/1tAf0uxEJJRex8YHGv9E0Wjy0Se9eZ_Qasxs8LJbgaUc/edit?usp=sharing">Curriculum Vitae<a>
   
 <Br>
 <h1>My Tech Skills! 🤸‍♂</h1>
@@ -43,10 +43,18 @@
 <img align="center" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-<h2 align="center">Databases</h2>
-<Br>
+<h2 align="center">AI Tools</h2>
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<h2 align="center">Databases</h2>
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <h2 align="center">Auth / APIs</h2>

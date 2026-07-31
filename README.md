@@ -47,7 +47,7 @@
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=chatgpt&logoColor=white"/>
 </p>
 
 <h2 align="center">Databases</h2>
